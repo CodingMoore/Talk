@@ -5,7 +5,7 @@ Initialization Date: 2020-10-20
 
 ## Project Description
 ### _Practice Exercise:_<br>
-This project is an exercise in using jQuery to show and hide objects on an HTML page, and to use jQuery to add classes and assign css changes.
+This project is an exercise in manipulating the DOM by inserting HTML content with "append" and "prepend" jQuery commands.
 ## Authors and Contributors
 Authored by: Randel Moore, Parker Benoit.
 
